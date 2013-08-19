@@ -1,0 +1,2 @@
+Working example how to do a GET request with libcurl and save it to a string
+variable for future use.
